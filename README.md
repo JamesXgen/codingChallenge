@@ -4,7 +4,7 @@
     * Take the provided HTML template and use it to display 4 products in the `#XgenElement` div
     * Replace any `{{...}}` fields with the information from the products
         * EX: `{{prod_name}}` should be replaced with `Top 2`
-    * Only display Tops, every other type of product should be excluded
+    * Create a size and color selector to reflect instock item variants
     * Exclude any product that is `"is_in_stock": "0"`
 * This should be done programmatically and nothing should be hard coded
     * If you were to add a new HTML template with new `{{...}}` fields it should still work

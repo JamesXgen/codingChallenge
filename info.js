@@ -10,9 +10,9 @@ window.htmlTemplate = `
 
 window.products = [
   {
-    "short_description": "Top 2",
+    "variant_description": "Top Green SM",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_2",
-    "product_types": ["green”", "“top", "top"],
+    "product_types": ["green", "top", "top"],
     "prod_code": "4596234223693",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -24,12 +24,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Top 2"
+    "prod_name": "Top"
   },
   {
-    "short_description": "Pants 20",
+    "variant_description": "Pants Black 3",
     "product_url": "https://piedpiperstore.myshopify.com/products/pants_20",
-    "product_types": ["“pants”", "pants"],
+    "product_types": ["pants", "pants"],
     "prod_code": "4596236255309",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -41,12 +41,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Pants 20"
+    "prod_name": "Pants"
   },
   {
-    "short_description": "Top 13",
+    "variant_description": "Top Camo LG",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_13",
-    "product_types": ["camo”", "“top", "top"],
+    "product_types": ["camo", "top", "top"],
     "prod_code": "4596234682445",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -58,12 +58,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "44.00",
-    "prod_name": "Top 13"
+    "prod_name": "Top"
   },
   {
-    "short_description": "Top 10",
+    "variant_description": "Top Strip XSM",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_10",
-    "product_types": ["stripe”", "“top", "top"],
+    "product_types": ["stripe", "top", "top"],
     "prod_code": "4596234584141",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -75,12 +75,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Top 10"
+    "prod_name": "Top"
   },
   {
-    "short_description": "Coat 10",
+    "variant_description": "Coat Suede lg",
     "product_url": "https://piedpiperstore.myshopify.com/products/coat_10",
-    "product_types": ["suede”", "“coat", "coats"],
+    "product_types": ["suede", "“coat", "coats"],
     "prod_code": "4596237107277",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -92,12 +92,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Coat 10"
+    "prod_name": "Coat"
   },
   {
-    "short_description": "Dress 13",
+    "variant_description": "Dress Floral 6",
     "product_url": "https://piedpiperstore.myshopify.com/products/dress_13",
-    "product_types": ["floral”", "red", "white", "“dress", "dress"],
+    "product_types": ["floral", "red", "white", "dress", "dress"],
     "prod_code": "4596233404493",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -109,12 +109,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Dress 13"
+    "prod_name": "Dress"
   },
   {
-    "short_description": "Dress 13",
+    "variant_description": "Dress Floral 4",
     "product_url": "https://piedpiperstore.myshopify.com/products/dress_13",
-    "product_types": ["floral”", "red", "white", "“dress", "dress"],
+    "product_types": ["floral", "red", "white", "“dress", "dress"],
     "prod_code": "4596233404493",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -126,12 +126,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Dress 13"
+    "prod_name": "Dress"
   },
   {
-    "short_description": "Top 6",
+    "variant_description": "Navy Top XL",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_6",
-    "product_types": ["navy”", "“top", "top"],
+    "product_types": ["navy", "top", "top"],
     "prod_code": "4596234420301",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -143,12 +143,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "44.00",
-    "prod_name": "Top 6"
+    "prod_name": "Top"
   },
   {
-    "short_description": "Top 16",
+    "variant_description": "Green Top MD",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_16",
-    "product_types": ["green”", "“top", "top"],
+    "product_types": ["green", "top", "top"],
     "prod_code": "4596234813517",
     "manufacturer": "XGen",
     "is_in_stock": "0",
@@ -160,12 +160,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Top 16"
+    "prod_name": "Top"
   },
   {
-    "short_description": "Pants 6",
+    "variant_description": "Blue Pants 0",
     "product_url": "https://piedpiperstore.myshopify.com/products/pants_6",
-    "product_types": ["blue”", "“pants", "pants"],
+    "product_types": ["blue", "pants", "pants"],
     "prod_code": "4596235501645",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -177,12 +177,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Pants 6"
+    "prod_name": "Pants"
   },
   {
-    "short_description": "Top 14",
+    "variant_description": "Navy Top SM",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_14",
-    "product_types": ["navy”", "“top", "top"],
+    "product_types": ["navy", "top", "top"],
     "prod_code": "4596234747981",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -194,12 +194,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Top 14"
+    "prod_name": "Top"
   },
   {
-    "short_description": "Top 3",
+    "variant_description": "Navy Top MD",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_3",
-    "product_types": ["navy”", "“top", "top"],
+    "product_types": ["navy", "top", "top"],
     "prod_code": "4596234289229",
     "manufacturer": "XGen",
     "is_in_stock": "0",
@@ -211,12 +211,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Top 3"
+    "prod_name": "Top"
   },
   {
-    "short_description": "Coat 15",
+    "variant_description": "Blue Coat LG ",
     "product_url": "https://piedpiperstore.myshopify.com/products/coat_15",
-    "product_types": ["blue”", "“coat", "coats"],
+    "product_types": ["blue", "coat", "coats"],
     "prod_code": "4596237500493",
     "manufacturer": "XGen",
     "is_in_stock": "1",
@@ -228,12 +228,12 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Coat 15"
+    "prod_name": "Coat"
   },
   {
-    "short_description": "Top 18",
+    "variant_description": "Black Top SM",
     "product_url": "https://piedpiperstore.myshopify.com/products/top_18",
-    "product_types": ["black”", "“top", "top"],
+    "product_types": ["black", "top", "top"],
     "prod_code": "4596235010125",
     "manufacturer": "XGen",
     "is_in_stock": "0",
@@ -245,6 +245,6 @@ window.products = [
     "currency_symbol": "$",
     "type_id": "simple",
     "sale_price": "None",
-    "prod_name": "Top 18"
+    "prod_name": "Top"
   }
 ]
