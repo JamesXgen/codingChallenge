@@ -5,6 +5,9 @@
     * Replace any `{{...}}` fields with the information from the products
         * EX: `{{prod_name}}` should be replaced with `Top 2`
     * Create a size and color selector to reflect instock item variants
+         - reflect the instock color and size variants per product visually
+         - create a add-to-cart button that is only clickable when an instock color and item variant are selected 
+         - it does not need to actually add to a cart (you don't need to build out a cart) 
     * Exclude any product that is `"is_in_stock": "0"`
 * This should be done programmatically and nothing should be hard coded
     * If you were to add a new HTML template with new `{{...}}` fields it should still work
